@@ -21,8 +21,8 @@ Each project folder contains:
 
 ## Project List
 
-1. California Housing Regression
-2. MNIST Classificaation
+1. California Housing Price Regression
+2. MNIST Classification
 
 ## Skills Demonstrated
 
@@ -51,8 +51,11 @@ Creating complex solutions to solve real world problems and provide business sol
 ## Contact
 
 Muhammad Mobeen
-[Email]muhammad.mobeen100@gmail.com
-[LinkedIn Profile](https://www.linkedin.com/in/mobeen0/)
-[Portfolio Website](https://mobeen0.github.io/Portfolio/)
+
+[Email](muhammad.mobeen100@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/mobeen0/)
+
+[Website](https://mobeen0.github.io/Portfolio/)
 
 Feel free to explore the projects and reach out if you have any questions or suggestions!
