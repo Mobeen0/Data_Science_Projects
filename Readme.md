@@ -53,10 +53,10 @@ Creating complex solutions to solve real world problems and provide business sol
 
 Muhammad Mobeen
 
-[Email](muhammad.mobeen100@gmail.com)
+Email: muhammad.mobeen100@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/mobeen0/)
+LinkedIn: [mobeen0](https://www.linkedin.com/in/mobeen0/)
 
-[Website](https://mobeen0.github.io/Portfolio/)
+Website: [Portfolio](https://mobeen0.github.io/Portfolio/)
 
 Feel free to explore the projects and reach out if you have any questions or suggestions!
