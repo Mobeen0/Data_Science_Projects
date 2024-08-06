@@ -23,6 +23,7 @@ Each project folder contains:
 
 1. California Housing Price Regression
 2. MNIST Classification
+3. IMDb Review Sentiment Classification
 
 ## Skills Demonstrated
 
