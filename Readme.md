@@ -25,6 +25,7 @@ Each project folder contains:
 2. MNIST Classification
 3. IMDb Review Sentiment Classification
 4. Glaucoma UNet image segmentation
+5. Finetuning Llama 3.1 8B on OCR dataset
 
 ## Skills Demonstrated
 
@@ -35,6 +36,7 @@ Each project folder contains:
 - Model selection and evaluation
 - Hyperparameter tuning
 - Deployment of machine learning models
+- Finetuning LLMs
 
 ## Tools and Libraries
 
@@ -45,6 +47,7 @@ Each project folder contains:
 - PyTorch
 - Matplotlib, Seaborn
 - NLTK, spaCy
+- unsloth
 
 ## Future Goals
 
